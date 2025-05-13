@@ -85,10 +85,6 @@ The application uses vanilla JavaScript to:
 - Edge
 - Opera
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Confetti animation powered by [tsParticles](https://particles.js.org/)
