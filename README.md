@@ -2,6 +2,8 @@
 
 A sleek, modern to-do list application with a beautiful dark theme UI, progress tracking, and confetti celebrations when all tasks are completed.
 
+<https://i.imgur.com/ISEywzF.gif>
+
 ## 🚀 Features
 
 - **Clean, Modern UI** with a dark theme and subtle gradients
