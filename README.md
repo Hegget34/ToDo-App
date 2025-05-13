@@ -90,4 +90,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🙏 Acknowledgments
 
 - Confetti animation powered by [tsParticles](https://particles.js.org/)
-- Icons from [Open source icon library]
