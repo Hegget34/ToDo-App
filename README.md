@@ -2,7 +2,7 @@
 
 A sleek, modern to-do list application with a beautiful dark theme UI, progress tracking, and confetti celebrations when all tasks are completed.
 
-![Todo App Demo]([https://example.com/todo-app-demo.gif](https://i.imgur.com/ISEywzF.gif))
+![Todo App Demo](https://i.imgur.com/ISEywzF.gif)
 
 ## 🚀 Features
 
