@@ -39,7 +39,7 @@ A sleek, modern to-do list application with a beautiful dark theme UI, progress 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Hegget34/todo-app.git
    ```
 
 2. Navigate to the project directory:
